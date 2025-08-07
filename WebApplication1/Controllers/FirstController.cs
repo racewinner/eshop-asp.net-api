@@ -10,7 +10,7 @@ namespace WebApplication1.Controllers
             return "Hello World";
         }
 
-        public object Info()
+        public object Info(string cat)
         {
             Person person = new Person();
 
