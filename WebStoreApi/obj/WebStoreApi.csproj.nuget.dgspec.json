@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\WebStoreApi\\WebStoreApi\\WebStoreApi.csproj": {}
+    "C:\\MyGitHub\\eshop-asp.net-api\\WebStoreApi\\WebStoreApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\WebStoreApi\\WebStoreApi\\WebStoreApi.csproj": {
+    "C:\\MyGitHub\\eshop-asp.net-api\\WebStoreApi\\WebStoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\WebStoreApi\\WebStoreApi\\WebStoreApi.csproj",
+        "projectUniqueName": "C:\\MyGitHub\\eshop-asp.net-api\\WebStoreApi\\WebStoreApi.csproj",
         "projectName": "WebStoreApi",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\WebStoreApi\\WebStoreApi\\WebStoreApi.csproj",
+        "projectPath": "C:\\MyGitHub\\eshop-asp.net-api\\WebStoreApi\\WebStoreApi.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\WebStoreApi\\WebStoreApi\\obj\\",
+        "outputPath": "C:\\MyGitHub\\eshop-asp.net-api\\WebStoreApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

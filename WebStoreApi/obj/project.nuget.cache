@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tWaIil+ledw=",
+  "dgSpecHash": "8GxZ+bLhaR4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\WebStoreApi\\WebStoreApi\\WebStoreApi.csproj",
+  "projectFilePath": "C:\\MyGitHub\\eshop-asp.net-api\\WebStoreApi\\WebStoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.19\\microsoft.aspnetcore.jsonpatch.8.0.19.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.19\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.19.nupkg.sha512",
